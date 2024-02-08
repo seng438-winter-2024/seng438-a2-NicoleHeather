@@ -2,9 +2,9 @@
 
 **Lab. Report \#2 – Requirements-Based Test Generation**
 
-| Group \#:      |     |
+| Group 23:      |     |
 | -------------- | --- |
-| Student Names: |     |
+| Nicole Heather |     |
 |                |     |
 |                |     |
 |                |     |
