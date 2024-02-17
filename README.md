@@ -2,3 +2,11 @@
 seng438-a2
 
 Read [the assignment guideline](seng438-a2.md) 
+
+***Steps to run JUnit Tests***
+1. Open eclipse in the "seng438-a2-NicoleHeather/JUnitProject" folder.
+2. Go to File -> Open Projects From File System.
+3. Set directory to "seng438-a2-NicoleHeather/JUnitProject".
+4. Click finish.
+5. Then, navigate to src -> org -> jfree -> data -> test and right click.
+6. Click on run and select JUnit application.
