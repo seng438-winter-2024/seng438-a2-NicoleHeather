@@ -12,4 +12,4 @@ Read [the assignment guideline](seng438-a2.md)
 6. Click on "Run As" and select JUnit application.
 
 There should be two library folders in your eclipse wokrspace (JRE System Library and Referenced Libraries) if you are missing them, import these libraries right clicking on JFreeChart and going to properties.
-From there go to "Java Build Path" and "Add External Libararies". From there add all the .jar files from thelib and lib/jMock directory in "Assignment 2-artifact/JFreeChart v1.0/JFreeChart".
+From there go to "Java Build Path" and "Add External Libararies". From there add all the .jar files from the lib and lib/jMock directory in "Assignment 2-artifact/JFreeChart v1.0/JFreeChart".
