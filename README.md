@@ -10,3 +10,5 @@ Read [the assignment guideline](seng438-a2.md)
 4. Click finish.
 5. Then, navigate to src -> org -> jfree -> data -> test and right click.
 6. Click on "Run As" and select JUnit application.
+
+There should be two library folders in your eclipse wokrspace (JRE System Library and Referenced Libraries) if you are missing them, import these libraries from the project settings.
